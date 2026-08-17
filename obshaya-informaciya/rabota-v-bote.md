@@ -21,3 +21,13 @@ description: Технические моменты и основа работы 
 <figure><img src="../.gitbook/assets/image (55).png" alt="" width="375"><figcaption></figcaption></figure>
 
 6. Успешный вход в бот
+7. При обработке чата наш отдел следит за тем, чтобы были отмечены категории:
+
+*   Подтвержденный (если данные человека верифицированы и подписан договор Let\&Be)
+
+    <figure><img src="../.gitbook/assets/telegram-cloud-photo-size-4-5771706696412631055-x.jpg" alt="" width="253"><figcaption></figcaption></figure>
+* Let\&be (если подписан договор)
+* Litleo (если подписан договор)
+* Договор VAT - Zasady rozliczenia faktur (если подписан договор)
+
+<figure><img src="../.gitbook/assets/telegram-cloud-photo-size-4-5771706696412631056-x.jpg" alt=""><figcaption></figcaption></figure>

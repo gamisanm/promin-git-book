@@ -9,7 +9,7 @@ description: Autenti, Jotform, Promin Login
 > платформа для отправки договоров, проверки статуса подписи.
 
 * **Let\&Be** - основной договор делается именно на Let\&Be, его должен иметь каждый водитель или курьер подключенный к нам.&#x20;
-* **Litleo -** договор для выплат каждый день и приложений Glovo Wolt и Stuart.&#x20;
+* **Litleo -** договор для выплат каждый день и приложений Glovo Wolt, Stuart и Zabka Jush. &#x20;
 
 <figure><img src="../.gitbook/assets/telegram-cloud-photo-size-4-5942656921754518397-y.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
@@ -28,9 +28,11 @@ description: Autenti, Jotform, Promin Login
 <figure><img src="../.gitbook/assets/image (49).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Статус подписано с двух сторон - значит можно начинать подключение аккаунтов. Скриншот о статусе подписи мы отправляем человеку, по примеру ниже:\
-![](<../.gitbook/assets/image (50).png>)
+![](<../.gitbook/assets/image (50).png>)<br>
 
+2. Проверить договора можно в CRM:
 
+<figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
 
 ### [**Анкета/Jotform**](https://promin.jotform.com/share/azg4OHJsUnlGcnpDTWY4STR6WmFkcFhDajEyZXJlS2liZElRTzdxbVhRWDRWdVFZZ29TSGl1OU9zYm9Kd0xORWFpQ0E5UjF3aUNqTjU0U1dPcCtzUzdJRjUyQW5NVlF4cDd2TnVWelJjSDVEZjVWeTJZbjBVWmJSU3p5eFVGbE8=)
 
