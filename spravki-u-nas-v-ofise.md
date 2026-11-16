@@ -1,5 +1,6 @@
 ---
 description: Orzeczenie psychologiczne i lekarskie
+hidden: true
 ---
 
 # 📄 Справки у нас в офисе
